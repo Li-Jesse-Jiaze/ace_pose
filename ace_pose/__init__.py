@@ -1,0 +1,1 @@
+__module_name__ = __name__

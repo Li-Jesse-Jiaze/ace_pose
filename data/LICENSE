@@ -1,0 +1,23 @@
+Niantic Wayspots Dataset License Agreement
+
+This Niantic Wayspots Dataset License Agreement ("Agreement") is an agreement between you and Niantic, Inc. (“Niantic” or “we”). By downloading or otherwise using Niantic’s Wayspots dataset or dataset-derived materials (collectively, the "Dataset") you agree to: 
+
+1. Purpose and Restrictions. You may only use the Dataset only for non-commercial purposes, such as academic research at educational and not-for-profit research institutions, teaching, public demonstrations, and personal experimentation. Non-commercial use expressly excludes any profit-making or commercial activities, including without limitation sale, license, manufacture or development of commercial products, use in commercially-sponsored research, use at a laboratory or other facility owned or controlled (whether in whole or in part) by a commercial entity, provision of consulting service, use for or on behalf of any commercial entity, and use in consulting service, use for or on behalf of any commercial entity, use in research where a commercial party obtains rights to research results or any other benefit. Notwithstanding the foregoing restrictions, you can use this Dataset for publishing comparison results for academic papers, including retraining your models on this Dataset.
+
+2. License. Subject to this Agreement, Niantic grants you a non-exclusive, non-transferable, non-sublicensable right to download and use the Dataset for the purpose stated in Section 1 of this Agreement. All rights not expressly granted to you in this Agreement are reserved.
+
+3. Condition of Use. You must not use the Dataset in a way that could diminish, tarnish, or in any way harm Niantic’s reputation or image.
+
+4. No Warranties. The Dataset comes “as is”, and you will use it at your own risk. Niantic makes no representations or warranties regarding the Dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. Neither Niantic nor any contributor to the Dataset will be liable for any damages related to the Dataset or this Agreement, including direct, indirect, special, consequential or incidental damages, to the maximum extent the law permits, no matter what legal theory they are based on. We are not obligated to (and will not) provide technical support for the Dataset.
+
+5. Indemnity. You accept full responsibility for your use of the Dataset and shall defend and indemnify Niantic, including its employees, officers and agents, against any and all claims arising from your use of the Dataset.
+
+6. Removal. Niantic reserves the right to remove access to the Dataset at any time without cause. If you have downloaded a copy of the Dataset prior to such removal, you may use such a copy subject to this Agreement, but you may not distribute your copy.
+
+7. Termination. This Agreement will terminate immediately upon your commercial use of the Dataset.
+
+8. Authorized Representative. If you are employed by a for-profit, commercial entity, your employer shall also be bound by the terms and conditions of this Agreement, and you hereby represent that you are fully authorized to enter into this Agreement on behalf of such employer.
+
+9. Survivability. Sections 2, 4, 5, 6, 7, 8, 9, and 10 of this Agreement survive the termination of this Agreement.
+
+10. Misc. This Agreement is governed and construed in all respects in accordance with the laws of the State of California, USA without regard to conflicts of law. If any provision of this Agreement is deemed unenforceable or contrary to law, the rest of this Agreement shall remain in full effect and enforceable. If you do not agree to this Agreement, do not download or use the Dataset. The Dataset is protected by copyright and other intellectual property laws and is licensed, not sold.
