@@ -38,6 +38,8 @@ cd ..
 
 ## Run Example
 
+Details in `demo.ipynb`
+
 Train model e.g. for Cambridge GreatCourt dataset:
 
 ```bash
