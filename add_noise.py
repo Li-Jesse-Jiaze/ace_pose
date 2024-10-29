@@ -34,7 +34,7 @@ def add_noise_to_pose(pose_matrix, rot_noise_std_deg=1.0, trans_noise_std=0.01):
     
     return noisy_pose
 
-def process_pose_files(directory, rot_noise_std_deg=1.0, trans_noise_std=0.01, overwrite=True, save_suffix='_noisy'):
+def process_pose_files(directory, rot_noise_std_deg=1.0, trans_noise_std=0.01, overwrite=True, save_suffix='_noisy', verbose=True):
     """
     Processes all .pose.txt files in a directory by adding noise and writing back the files.
     
@@ -71,8 +71,8 @@ def process_pose_files(directory, rot_noise_std_deg=1.0, trans_noise_std=0.01, o
         with open(save_path, 'w') as f:
             for row in noisy_pose:
                 f.write(' '.join(f"{num:.15f}" for num in row) + '\n')
-        
-        print(f"Processed and saved: {save_path}")
+        if verbose:
+            print(f"Processed and saved: {save_path}")
 
 if __name__ == "__main__":
     # Set parameters
