@@ -4,6 +4,8 @@
 
 We introduce feature selection in Scene Coordinate Regression (SCR) to reduce the impact caused by poorly distinguishable features; pose optimization over Lie algebra facilitates the direct use of visual odometry poses as supervision, thus lifting the dependence on the SfM step.
 
+TODO: Huber in LM
+
 ![pose_optimization](./pose_optim_ill.png)
 
 ## Dependencies
